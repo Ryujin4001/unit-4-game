@@ -1,31 +1,31 @@
 body {
-	background-image: url("../images/background.jpg");
+	background-image: url("../images/nature-1555177901547-1608.jpg");
 }
 
 .jumbotron {
-	background-color: #df0fb2;
+	background-color: #1c5bcf;
 }
 
 #gameSection, #scoreSection {
-	background-color: #df0fb2;
+	background-color: b#6374d4;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 *#numberSection, #totalPoints {
-	background-color: orange;
+	background-color: rgb(53, 53, 145);
 }*/
 
 #buttonSection {
 
-	background-color: yellow;
+	background-color: rgb(53, 53, 145);
 	padding: 0px;
 	padding-top: 50px;
 	padding-bottom: 25px;
 }
 
-/* Fonts */
 h1, h2, h3 {
+    color: aliceblue;
 	font-family: 'Alfa Slab One', cursive;
 }
 
@@ -38,7 +38,6 @@ p {
 	margin: 0px;
 }
 
-/* images for buttons */
 .icons {
 	display: inline-block;
   	max-width: 100px;
